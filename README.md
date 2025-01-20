@@ -1,2 +1,9 @@
-# User-data-Input-App
-My project is about user input app. It takes data from the user and then store it for future need.
+# User Input App in Docker
+
+This app allows users to input their details through a form and stores the data in an SQLite database.
+
+## Steps to Run:
+
+1. Build the Docker image:
+   ```bash
+   docker-compose build
